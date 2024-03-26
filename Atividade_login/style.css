@@ -1,0 +1,94 @@
+.bg-body-tertiary{
+    --bs-bg-opacity:none !important;
+}
+
+header{
+    background-color: #ffc107 !important;
+}
+
+body{
+    background-color: #f0e7ab !important;
+}
+
+.container{
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.img_fod{
+    justify-content: center !important;
+    padding:5%;
+    padding-top: 20%;
+    padding-left: 10%;
+}
+
+.img1{
+    height: 400px;
+    width: 400px;
+    
+}
+
+
+.div_login{
+    justify-content: center;
+    padding: 20%;
+}
+
+.div_login1{
+    border: solid #FF7D08 4px;
+    border-radius: 10px;
+    height: 480px;
+    width: 500px;
+    background-color: #eddd73;
+    padding: 10px;
+}
+
+h1{
+    text-align: center !important;
+    color: #FF7D08 !important;
+    font-weight: 500 !important;
+    font-size: 3em !important;
+    margin-bottom: 1em !important;
+}
+
+h2{
+    color: #141414 !important;
+    font-weight: 500 !important;
+    font-size: 2em !important;
+    margin-top:0% !important;
+}
+.p{
+    color: #C45F06 ;
+    font-size: 1.5em;
+    margin-left: 1.2em;
+    text-align: left !important;
+}
+
+.form{
+    display: flex;
+    flex-direction: column;
+    gap: 3em;
+    align-items: center;
+}
+
+.senha{
+    display: flex;
+    flex-direction: column;
+}
+
+.email{
+    display: flex;
+    flex-direction: column;
+}
+
+.input_login{
+    padding:20px;
+    border-radius: 10px;
+    width: 400px;
+    height: 40px;
+}
+
+.botao{
+    width: 60%;
+    background-color: rgb(184, 184, 184);
+}

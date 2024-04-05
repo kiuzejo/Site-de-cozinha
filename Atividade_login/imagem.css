@@ -1,0 +1,29 @@
+@media (max-width: 719px){
+
+    .img_fod{
+        justify-content: center !important;
+        padding:5%;
+        padding-top: 20%;
+        padding-left: 10%;
+    }
+    
+    .img1{
+        height: 60%;
+        width: 87%; 
+    }
+
+}
+
+@media (min-width:720px){
+
+    .img_fod{
+        align-items: center !important;
+        padding-top: 20%;
+    }
+    
+    .img1{
+        height: 60%;
+        width: 87%; 
+    }
+
+}

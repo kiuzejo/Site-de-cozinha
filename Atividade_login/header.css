@@ -1,0 +1,27 @@
+@media (max-width: 719px){
+
+    header{
+        width: 100vw !important;
+        background-color: #ffc107 !important;
+        margin-bottom: 10%;
+        }
+    
+    .bg-body-tertiary{
+       --bs-bg-opacity:none !important;
+        }
+
+    }
+
+@media (min-width:720px){
+
+    header{
+        width: 100vw !important;
+        background-color: #ffc107 !important;
+        margin-bottom: 10%;
+        }
+    
+    .bg-body-tertiary{
+        --bs-bg-opacity:none !important;
+    }
+
+}

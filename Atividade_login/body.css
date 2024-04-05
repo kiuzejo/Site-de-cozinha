@@ -1,0 +1,21 @@
+@media (max-width: 719px){
+
+    body{
+        background-color: #f0e7ab !important;
+    }
+
+}
+
+@media (min-width:720px){
+ 
+    body{
+        background-color: #f0e7ab !important;
+    }
+    
+    .container{
+        display: grid;
+        grid-template-columns: 1fr 1fr;
+    }
+
+}
+
